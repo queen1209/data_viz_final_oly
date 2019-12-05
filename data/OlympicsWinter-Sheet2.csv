@@ -1,0 +1,361 @@
+Year,City,Sport,Athlete,Country,Gender,Event,Medal
+1928,St.Moritz,Bobsleigh,"HESS, Hans",GER,Men,Five-Man,Bronze
+1928,St.Moritz,Bobsleigh,"HUBER, Sebastian",GER,Men,Five-Man,Bronze
+1928,St.Moritz,Bobsleigh,"KILIAN, Hanns",GER,Men,Five-Man,Bronze
+1928,St.Moritz,Bobsleigh,"KREMPL, Valentin",GER,Men,Five-Man,Bronze
+1928,St.Moritz,Bobsleigh,"NeGLE, Hanns",GER,Men,Five-Man,Bronze
+1932,Lake Placid,Bobsleigh,"BREHME, Albert",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"GRAU, Fritz",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"HOPMANN, Helmut",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"HUBER, Sebastian",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"HUTH, Werner",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"KILIAN, Hanns",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"KROTKI, Rudolf",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"LUDWIG, Max",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"MEHLHHORN, Hans",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"ROSSNER, Heinrich",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Bobsleigh,"ZAHN, Werner",GER,Men,Four-Man,Bronze
+1932,Lake Placid,Ice Hockey,"BALL, Rudolf",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"HEINRICH, Alfred",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"HERKER, Erich",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"JeNECKE, Gustav",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"KORFF, Werner",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"LEINWEBER, Walter",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"Re_MER, Erich",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"SCHRe_TTLE, Martin",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"SLEVOGT, Marquardt",GER,Men,Ice Hockey,Bronze
+1932,Lake Placid,Ice Hockey,"STROBL, Georg",GER,Men,Ice Hockey,Bronze
+1936,Garmisch Partenkirchen,Skating,"BAIER, Ernst",GER,Men,Individual,Silver
+1936,Garmisch Partenkirchen,Skating,"BAIER, Ernst",GER,Men,Pairs,Gold
+1936,Garmisch Partenkirchen,Skating,"HERBER, Maxi",GER,Women,Pairs,Gold
+1936,Garmisch Partenkirchen,Skiing,"PFNeeR, Franz",GER,Men,Alpine Combined,Gold
+1936,Garmisch Partenkirchen,Skiing,"LANTSCHNER, Gustav",GER,Men,Alpine Combined,Silver
+1936,Garmisch Partenkirchen,Skiing,"CRANZ, Christel",GER,Women,Alpine Combined,Gold
+1936,Garmisch Partenkirchen,Skiing,"GRASEGGER, Ke_the",GER,Women,Alpine Combined,Silver
+1992,Albertville,Biathlon,"KIRCHNER, Mark",GER,Men,10KM,Gold
+1992,Albertville,Biathlon,"GROSS, Ricco",GER,Men,10KM,Silver
+1992,Albertville,Biathlon,"HARVEY, Antje",GER,Women,15KM,Gold
+1992,Albertville,Biathlon,"KIRCHNER, Mark",GER,Men,20KM,Silver
+1992,Albertville,Biathlon,"DISL, Uschi",GER,Women,4X7.5KM Relay,Silver
+1992,Albertville,Biathlon,"HARVEY, Antje",GER,Women,4X7.5KM Relay,Silver
+1992,Albertville,Biathlon,"SCHAAF, Petra",GER,Women,4X7.5KM Relay,Silver
+1992,Albertville,Biathlon,"FISCHER, Fritz",GER,Men,4X7.5KM Relay,Gold
+1992,Albertville,Biathlon,"GROSS, Ricco",GER,Men,4X7.5KM Relay,Gold
+1992,Albertville,Biathlon,"KIRCHNER, Mark",GER,Men,4X7.5KM Relay,Gold
+1992,Albertville,Biathlon,"STEINIGEN, Jens",GER,Men,4X7.5KM Relay,Gold
+1992,Albertville,Biathlon,"HARVEY, Antje",GER,Women,7.5KM,Silver
+1992,Albertville,Bobsleigh,"HANNEMANN, Rene",GER,Men,Four-Man,Silver
+1992,Albertville,Bobsleigh,"HOPPE, Wolfgang",GER,Men,Four-Man,Silver
+1992,Albertville,Bobsleigh,"KeeHN, Axel",GER,Men,Four-Man,Silver
+1992,Albertville,Bobsleigh,"MUSIOL, Bogdan",GER,Men,Four-Man,Silver
+1992,Albertville,Bobsleigh,"EGER, Ge_nther",GER,Men,Two-Man,Bronze
+1992,Albertville,Bobsleigh,"LANGEN, Christoph",GER,Men,Two-Man,Bronze
+1992,Albertville,Bobsleigh,"LOCHNER, Rudolf",GER,Men,Two-Man,Silver
+1992,Albertville,Bobsleigh,"ZIMMERMANN, Markus",GER,Men,Two-Man,Silver
+1992,Albertville,Luge,"BEHRENDT, Jan",GER,Men,Doubles,Gold
+1992,Albertville,Luge,"KRAUSSE, Stefan",GER,Men,Doubles,Gold
+1992,Albertville,Luge,"MANKEL, Yves",GER,Men,Doubles,Silver
+1992,Albertville,Luge,"RUDOLPH, Thomas",GER,Men,Doubles,Silver
+1992,Albertville,Luge,"HACKL, Georg",GER,Men,Singles,Gold
+1992,Albertville,Luge,"ERDMANN, Susi-Lisa",GER,Women,Singles,Bronze
+1992,Albertville,Skating,"ZINKE, Olaf",GER,Men,1000M,Gold
+1992,Albertville,Skating,"GARBRECHT-ENFELDT, Monique",GER,Women,1000M,Bronze
+1992,Albertville,Skating,"Be_RNER, Jacqueline",GER,Women,1500M,Gold
+1992,Albertville,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,1500M,Silver
+1992,Albertville,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,3000M,Gold
+1992,Albertville,Skating,"WARNICKE, Heike",GER,Women,3000M,Silver
+1992,Albertville,Skating,"PECHSTEIN, Claudia",GER,Women,5000M,Bronze
+1992,Albertville,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,5000M,Gold
+1992,Albertville,Skating,"WARNICKE, Heike",GER,Women,5000M,Silver
+1992,Albertville,Skating,"MEY, Uwe-Jens",GER,Men,500M,Gold
+1992,Albertville,Skating,"LUDING, Christa",GER,Women,500M,Bronze
+1992,Albertville,Skiing,"SEIZINGER, Katja",GER,Women,Super-G,Bronze
+1994,Lillehammer,Biathlon,"GROSS, Ricco",GER,Men,10KM,Silver
+1994,Lillehammer,Biathlon,"DISL, Uschi",GER,Women,15KM,Bronze
+1994,Lillehammer,Biathlon,"FISCHER, Sven",GER,Men,20KM,Bronze
+1994,Lillehammer,Biathlon,"LUCK, Frank",GER,Men,20KM,Silver
+1994,Lillehammer,Biathlon,"FISCHER, Sven",GER,Men,4X7.5KM Relay,Gold
+1994,Lillehammer,Biathlon,"GROSS, Ricco",GER,Men,4X7.5KM Relay,Gold
+1994,Lillehammer,Biathlon,"KIRCHNER, Mark",GER,Men,4X7.5KM Relay,Gold
+1994,Lillehammer,Biathlon,"LUCK, Frank",GER,Men,4X7.5KM Relay,Gold
+1994,Lillehammer,Biathlon,"DISL, Uschi",GER,Women,4X7.5KM Relay,Silver
+1994,Lillehammer,Biathlon,"GREINER-PETTER-MEMM, Simone",GER,Women,4X7.5KM Relay,Silver
+1994,Lillehammer,Biathlon,"HARVEY, Antje",GER,Women,4X7.5KM Relay,Silver
+1994,Lillehammer,Biathlon,"SCHAAF, Petra",GER,Women,4X7.5KM Relay,Silver
+1994,Lillehammer,Bobsleigh,"EMBACH, Carsten",GER,Men,Four-Man,Bronze
+1994,Lillehammer,Bobsleigh,"HANNEMANN, Rene",GER,Men,Four-Man,Bronze
+1994,Lillehammer,Bobsleigh,"HIELSCHER, Ulf",GER,Men,Four-Man,Bronze
+1994,Lillehammer,Bobsleigh,"HOPPE, Wolfgang",GER,Men,Four-Man,Bronze
+1994,Lillehammer,Bobsleigh,"BRANNASCH, Karsten",GER,Men,Four-Man,Gold
+1994,Lillehammer,Bobsleigh,"CZUDAJ, Harald",GER,Men,Four-Man,Gold
+1994,Lillehammer,Bobsleigh,"HAMPEL, Olaf",GER,Men,Four-Man,Gold
+1994,Lillehammer,Bobsleigh,"SZELIG, Alexander",GER,Men,Four-Man,Gold
+1994,Lillehammer,Luge,"BEHRENDT, Jan",GER,Men,Doubles,Bronze
+1994,Lillehammer,Luge,"KRAUSSE, Stefan",GER,Men,Doubles,Bronze
+1994,Lillehammer,Luge,"HACKL, Georg",GER,Men,Singles,Gold
+1994,Lillehammer,Luge,"ERDMANN, Susi-Lisa",GER,Women,Singles,Silver
+1994,Lillehammer,Skating,"BAIER-LOEF, Anke",GER,Women,1000M,Silver
+1994,Lillehammer,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,1500M,Bronze
+1994,Lillehammer,Skating,"PECHSTEIN, Claudia",GER,Women,3000M,Bronze
+1994,Lillehammer,Skating,"PECHSTEIN, Claudia",GER,Women,5000M,Gold
+1994,Lillehammer,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,5000M,Silver
+1994,Lillehammer,Skating,"SCHENK, Franziska",GER,Women,500M,Bronze
+1994,Lillehammer,Skiing,"SEIZINGER, Katja",GER,Women,Downhill,Gold
+1994,Lillehammer,Skiing,"WASMEIER, Markus",GER,Men,Giant Slalom,Gold
+1994,Lillehammer,Skiing,"ERTL, Martina",GER,Women,Giant Slalom,Silver
+1994,Lillehammer,Skiing,"WASMEIER, Markus",GER,Men,Super-G,Gold
+1994,Lillehammer,Skiing,"WEISSFLOG, Jens",GER,Men,K120 Individual (90M),Gold
+1994,Lillehammer,Skiing,"DUFFNER, Christof",GER,Men,K120 Team (90M),Gold
+1994,Lillehammer,Skiing,"JAEKLE, Hansjoerg",GER,Men,K120 Team (90M),Gold
+1994,Lillehammer,Skiing,"THOMA, Dieter",GER,Men,K120 Team (90M),Gold
+1994,Lillehammer,Skiing,"WEISSFLOG, Jens",GER,Men,K120 Team (90M),Gold
+1994,Lillehammer,Skiing,"THOMA, Dieter",GER,Men,K90 Individual (70M),Bronze
+1998,Nagano,Biathlon,"DISL, Uschi",GER,Women,15KM,Bronze
+1998,Nagano,Biathlon,"FISCHER, Sven",GER,Men,4X7.5KM Relay,Gold
+1998,Nagano,Biathlon,"GROSS, Ricco",GER,Men,4X7.5KM Relay,Gold
+1998,Nagano,Biathlon,"LUCK, Frank",GER,Men,4X7.5KM Relay,Gold
+1998,Nagano,Biathlon,"SENDEL, Peter",GER,Men,4X7.5KM Relay,Gold
+1998,Nagano,Biathlon,"APEL, Katrin",GER,Women,4X7.5KM Relay,Gold
+1998,Nagano,Biathlon,"BEHLE-SCHAAF, Petra",GER,Women,4X7.5KM Relay,Gold
+1998,Nagano,Biathlon,"DISL, Uschi",GER,Women,4X7.5KM Relay,Gold
+1998,Nagano,Biathlon,"ZELLNER, Martina",GER,Women,4X7.5KM Relay,Gold
+1998,Nagano,Biathlon,"APEL, Katrin",GER,Women,7.5KM,Bronze
+1998,Nagano,Biathlon,"DISL, Uschi",GER,Women,7.5KM,Silver
+1998,Nagano,Bobsleigh,"HAMPEL, Olaf",GER,Men,Four-Man,Gold
+1998,Nagano,Bobsleigh,"JAKOBS, Marco",GER,Men,Four-Man,Gold
+1998,Nagano,Bobsleigh,"LANGEN, Christoph",GER,Men,Four-Man,Gold
+1998,Nagano,Bobsleigh,"ZIMMERMANN, Markus",GER,Men,Four-Man,Gold
+1998,Nagano,Bobsleigh,"LANGEN, Christoph",GER,Men,Two-Man,Bronze
+1998,Nagano,Bobsleigh,"ZIMMERMANN, Markus",GER,Men,Two-Man,Bronze
+1998,Nagano,Luge,"BEHRENDT, Jan",GER,Men,Doubles,Gold
+1998,Nagano,Luge,"KRAUSSE, Stefan",GER,Men,Doubles,Gold
+1998,Nagano,Luge,"MUELLER, Jens",GER,Men,Singles,Bronze
+1998,Nagano,Luge,"HACKL, Georg",GER,Men,Singles,Gold
+1998,Nagano,Luge,"KRAUSHAAR, Silke",GER,Women,Singles,Gold
+1998,Nagano,Luge,"NIEDERNHUBER, Barbara",GER,Women,Singles,Silver
+1998,Nagano,Skating,"STEUER, Ingo",GER,Men,Pairs,Bronze
+1998,Nagano,Skating,"WOTZEL, Mandy",GER,Women,Pairs,Bronze
+1998,Nagano,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,1500M,Silver
+1998,Nagano,Skating,"FRIESINGER-POSTMA, Anna",GER,Women,3000M,Bronze
+1998,Nagano,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,3000M,Gold
+1998,Nagano,Skating,"PECHSTEIN, Claudia",GER,Women,3000M,Silver
+1998,Nagano,Skating,"PECHSTEIN, Claudia",GER,Women,5000M,Gold
+1998,Nagano,Skating,"NIEMANN-STIRNEMANN, Gunda",GER,Women,5000M,Silver
+1998,Nagano,Skiing,"GERG, Hilde",GER,Women,Alpine Combined,Bronze
+1998,Nagano,Skiing,"SEIZINGER, Katja",GER,Women,Alpine Combined,Gold
+1998,Nagano,Skiing,"ERTL, Martina",GER,Women,Alpine Combined,Silver
+1998,Nagano,Skiing,"SEIZINGER, Katja",GER,Women,Downhill,Gold
+1998,Nagano,Skiing,"SEIZINGER, Katja",GER,Women,Giant Slalom,Bronze
+1998,Nagano,Skiing,"GERG, Hilde",GER,Women,Slalom,Gold
+1998,Nagano,Skiing,"MITTERMAYER, Tatjana",GER,Women,Moguls,Silver
+1998,Nagano,Skiing,"HANNAWALD, Sven",GER,Men,K120 Team (90M),Silver
+1998,Nagano,Skiing,"JAEKLE, Hansjoerg",GER,Men,K120 Team (90M),Silver
+1998,Nagano,Skiing,"SCHMITT, Martin",GER,Men,K120 Team (90M),Silver
+1998,Nagano,Skiing,"THOMA, Dieter",GER,Men,K120 Team (90M),Silver
+1998,Nagano,Skiing,"RENOTH, Heidi Maria",GER,Women,Giant-Slalom,Silver
+1998,Nagano,Skiing,"THOST, Nicola",GER,Women,Half-Pipe,Gold
+2002,Salt Lake City,Biathlon,"FISCHER, Sven",GER,Men,10KM,Silver
+2002,Salt Lake City,Biathlon,"WILHELM, Kati",GER,Women,10KM Pursuit,Silver
+2002,Salt Lake City,Biathlon,"GROSS, Ricco",GER,Men,12.5Km Pursuit,Bronze
+2002,Salt Lake City,Biathlon,"HENKEL, Andrea",GER,Women,15KM,Gold
+2002,Salt Lake City,Biathlon,"LUCK, Frank",GER,Men,20KM,Silver
+2002,Salt Lake City,Biathlon,"FISCHER, Sven",GER,Men,4X7.5KM Relay,Silver
+2002,Salt Lake City,Biathlon,"GROSS, Ricco",GER,Men,4X7.5KM Relay,Silver
+2002,Salt Lake City,Biathlon,"LUCK, Frank",GER,Men,4X7.5KM Relay,Silver
+2002,Salt Lake City,Biathlon,"SENDEL, Peter",GER,Men,4X7.5KM Relay,Silver
+2002,Salt Lake City,Biathlon,"APEL, Katrin",GER,Women,4X7.5KM Relay,Gold
+2002,Salt Lake City,Biathlon,"DISL, Uschi",GER,Women,4X7.5KM Relay,Gold
+2002,Salt Lake City,Biathlon,"HENKEL, Andrea",GER,Women,4X7.5KM Relay,Gold
+2002,Salt Lake City,Biathlon,"WILHELM, Kati",GER,Women,4X7.5KM Relay,Gold
+2002,Salt Lake City,Biathlon,"WILHELM, Kati",GER,Women,7.5KM,Gold
+2002,Salt Lake City,Biathlon,"DISL, Uschi",GER,Women,7.5KM,Silver
+2002,Salt Lake City,Bobsleigh,"EMBACH, Carsten",GER,Men,Four-Man,Gold
+2002,Salt Lake City,Bobsleigh,"KUEHN, Enrico",GER,Men,Four-Man,Gold
+2002,Salt Lake City,Bobsleigh,"KUSKE, Kevin",GER,Men,Four-Man,Gold
+2002,Salt Lake City,Bobsleigh,"LANGE, Andre",GER,Men,Four-Man,Gold
+2002,Salt Lake City,Bobsleigh,"LANGEN, Christoph",GER,Men,Two-Man,Gold
+2002,Salt Lake City,Bobsleigh,"ZIMMERMANN, Markus",GER,Men,Two-Man,Gold
+2002,Salt Lake City,Bobsleigh,"ERDMANN, Susi-Lisa",GER,Women,Two-Man,Bronze
+2002,Salt Lake City,Bobsleigh,"HERSCHMANN, Nicole",GER,Women,Two-Man,Bronze
+2002,Salt Lake City,Bobsleigh,"HOLZNER, Ulrike",GER,Women,Two-Man,Silver
+2002,Salt Lake City,Bobsleigh,"KIRIASIS, Sandra",GER,Women,Two-Man,Silver
+2002,Salt Lake City,Luge,"LEITNER, Patric-Fritz",GER,Men,Doubles,Gold
+2002,Salt Lake City,Luge,"RESCH, Alexander",GER,Men,Doubles,Gold
+2002,Salt Lake City,Luge,"HACKL, Georg",GER,Men,Singles,Silver
+2002,Salt Lake City,Luge,"KRAUSHAAR, Silke",GER,Women,Singles,Bronze
+2002,Salt Lake City,Luge,"OTTO, Sylke",GER,Women,Singles,Gold
+2002,Salt Lake City,Luge,"NIEDERNHUBER, Barbara",GER,Women,Singles,Silver
+2002,Salt Lake City,Skating,"VOELKER, Sabine",GER,Women,1000M,Silver
+2002,Salt Lake City,Skating,"FRIESINGER-POSTMA, Anna",GER,Women,1500M,Gold
+2002,Salt Lake City,Skating,"VOELKER, Sabine",GER,Women,1500M,Silver
+2002,Salt Lake City,Skating,"PECHSTEIN, Claudia",GER,Women,3000M,Gold
+2002,Salt Lake City,Skating,"BODEN, Jens",GER,Men,5000M,Bronze
+2002,Salt Lake City,Skating,"PECHSTEIN, Claudia",GER,Women,5000M,Gold
+2002,Salt Lake City,Skating,"VOELKER, Sabine",GER,Women,500M,Bronze
+2002,Salt Lake City,Skating,"GARBRECHT-ENFELDT, Monique",GER,Women,500M,Silver
+2002,Salt Lake City,Skiing,"ERTL, Martina",GER,Women,Alpine Combined,Bronze
+2002,Salt Lake City,Skiing,"ANGERER, Tobias",GER,Men,4X10KM Relay,Bronze
+2002,Salt Lake City,Skiing,"FILBRICH, Jens",GER,Men,4X10KM Relay,Bronze
+2002,Salt Lake City,Skiing,"SCHLUETTER, Andreas",GER,Men,4X10KM Relay,Bronze
+2002,Salt Lake City,Skiing,"SOMMERFELDT, Rene",GER,Men,4X10KM Relay,Bronze
+2002,Salt Lake City,Skiing,"BAUER, Viola",GER,Women,4X5KM Relay,Gold
+2002,Salt Lake City,Skiing,"HENKEL, Manuela",GER,Women,4X5KM Relay,Gold
+2002,Salt Lake City,Skiing,"KUENZEL, Claudia",GER,Women,4X5KM Relay,Gold
+2002,Salt Lake City,Skiing,"SACHENBACHER, Evi",GER,Women,4X5KM Relay,Gold
+2002,Salt Lake City,Skiing,"BAUER, Viola",GER,Women,5Km Pursuit,Bronze
+2002,Salt Lake City,Skiing,"SCHLICKENRIEDER, Peter",GER,Men,Sprint 1.5KM,Silver
+2002,Salt Lake City,Skiing,"SACHENBACHER, Evi",GER,Women,Sprint 1.5KM,Silver
+2002,Salt Lake City,Skiing,"ACKERMANN, Ronny",GER,Men,Sprint,Silver
+2002,Salt Lake City,Skiing,"ACKERMANN, Ronny",GER,Men,Team,Silver
+2002,Salt Lake City,Skiing,"HETTICH, Georg",GER,Men,Team,Silver
+2002,Salt Lake City,Skiing,"HOEHLIG, Marcel",GER,Men,Team,Silver
+2002,Salt Lake City,Skiing,"KIRCHEISEN, Bjoern",GER,Men,Team,Silver
+2002,Salt Lake City,Skiing,"HANNAWALD, Sven",GER,Men,K120 Team (90M),Gold
+2002,Salt Lake City,Skiing,"HOCKE, Stephan",GER,Men,K120 Team (90M),Gold
+2002,Salt Lake City,Skiing,"SCHMITT, Martin",GER,Men,K120 Team (90M),Gold
+2002,Salt Lake City,Skiing,"UHRMANN, Michael",GER,Men,K120 Team (90M),Gold
+2002,Salt Lake City,Skiing,"HANNAWALD, Sven",GER,Men,K90 Individual (70M),Silver
+2006,Turin,Biathlon,"FISCHER, Sven",GER,Men,10KM,Gold
+2006,Turin,Biathlon,"WILHELM, Kati",GER,Women,10KM Pursuit,Gold
+2006,Turin,Biathlon,"GLAGOW, Martina",GER,Women,10KM Pursuit,Silver
+2006,Turin,Biathlon,"DISL, Uschi",GER,Women,12.5KM Mass Start,Bronze
+2006,Turin,Biathlon,"WILHELM, Kati",GER,Women,12.5KM Mass Start,Silver
+2006,Turin,Biathlon,"FISCHER, Sven",GER,Men,12.5Km Pursuit,Bronze
+2006,Turin,Biathlon,"GLAGOW, Martina",GER,Women,15KM,Silver
+2006,Turin,Biathlon,"GREIS, Michael",GER,Men,15KM Mass Start,Gold
+2006,Turin,Biathlon,"GREIS, Michael",GER,Men,20KM,Gold
+2006,Turin,Biathlon,"APEL, Katrin",GER,Women,4X6KM Relay,Silver
+2006,Turin,Biathlon,"GLAGOW, Martina",GER,Women,4X6KM Relay,Silver
+2006,Turin,Biathlon,"HENKEL, Andrea",GER,Women,4X6KM Relay,Silver
+2006,Turin,Biathlon,"WILHELM, Kati",GER,Women,4X6KM Relay,Silver
+2006,Turin,Biathlon,"FISCHER, Sven",GER,Men,4X7.5KM Relay,Gold
+2006,Turin,Biathlon,"GREIS, Michael",GER,Men,4X7.5KM Relay,Gold
+2006,Turin,Biathlon,"GROSS, Ricco",GER,Men,4X7.5KM Relay,Gold
+2006,Turin,Biathlon,"ROESCH, Michael",GER,Men,4X7.5KM Relay,Gold
+2006,Turin,Bobsleigh,"HOPPE, Rene",GER,Men,Four-Man,Gold
+2006,Turin,Bobsleigh,"KUSKE, Kevin",GER,Men,Four-Man,Gold
+2006,Turin,Bobsleigh,"LANGE, Andre",GER,Men,Four-Man,Gold
+2006,Turin,Bobsleigh,"PUTZE, Martin",GER,Men,Four-Man,Gold
+2006,Turin,Bobsleigh,"KUSKE, Kevin",GER,Men,Two-Man,Gold
+2006,Turin,Bobsleigh,"LANGE, Andre",GER,Men,Two-Man,Gold
+2006,Turin,Bobsleigh,"KIRIASIS, Sandra",GER,Women,Two-Man,Gold
+2006,Turin,Bobsleigh,"SCHNEIDERHEINZE, Anja",GER,Women,Two-Man,Gold
+2006,Turin,Luge,"FLORSCHUETZ, Andre",GER,Men,Doubles,Silver
+2006,Turin,Luge,"WUSTLICH, Torsten",GER,Men,Doubles,Silver
+2006,Turin,Luge,"HUEFNER, Tatjana",GER,Women,Singles,Bronze
+2006,Turin,Luge,"OTTO, Sylke",GER,Women,Singles,Gold
+2006,Turin,Luge,"KRAUSHAAR, Silke",GER,Women,Singles,Silver
+2006,Turin,Skating,"FRIESINGER-POSTMA, Anna",GER,Women,1000M,Bronze
+2006,Turin,Skating,"PECHSTEIN, Claudia",GER,Women,5000M,Silver
+2006,Turin,Skating,"ANSCHUETZ THOMS, Daniela",GER,Women,Team Pursuit,Gold
+2006,Turin,Skating,"FRIESINGER-POSTMA, Anna",GER,Women,Team Pursuit,Gold
+2006,Turin,Skating,"OPITZ, Lucille",GER,Women,Team Pursuit,Gold
+2006,Turin,Skating,"PECHSTEIN, Claudia",GER,Women,Team Pursuit,Gold
+2006,Turin,Skating,"VOELKER, Sabine",GER,Women,Team Pursuit,Gold
+2006,Turin,Skiing,"ANGERER, Tobias",GER,Men,15KM,Bronze
+2006,Turin,Skiing,"ANGERER, Tobias",GER,Men,4X10KM Relay,Silver
+2006,Turin,Skiing,"FILBRICH, Jens",GER,Men,4X10KM Relay,Silver
+2006,Turin,Skiing,"SCHLUETTER, Andreas",GER,Men,4X10KM Relay,Silver
+2006,Turin,Skiing,"SOMMERFELDT, Rene",GER,Men,4X10KM Relay,Silver
+2006,Turin,Skiing,"BAUER, Viola",GER,Women,4X5KM Relay,Silver
+2006,Turin,Skiing,"BOEHLER, Stefanie",GER,Women,4X5KM Relay,Silver
+2006,Turin,Skiing,"KUENZEL, Claudia",GER,Women,4X5KM Relay,Silver
+2006,Turin,Skiing,"SACHENBACHER STEHLE, Evi",GER,Women,4X5KM Relay,Silver
+2006,Turin,Skiing,"KUENZEL, Claudia",GER,Women,Sprint 1.5KM,Silver
+2006,Turin,Skiing,"HETTICH, Georg",GER,Men,Individual,Gold
+2006,Turin,Skiing,"HETTICH, Georg",GER,Men,Individual Sprint,Bronze
+2006,Turin,Skiing,"ACKERMANN, Ronny",GER,Men,Team,Silver
+2006,Turin,Skiing,"GAISER, Jens",GER,Men,Team,Silver
+2006,Turin,Skiing,"HETTICH, Georg",GER,Men,Team,Silver
+2006,Turin,Skiing,"KIRCHEISEN, Bjoern",GER,Men,Team,Silver
+2006,Turin,Skiing,"KOBER, Amelie",GER,Women,Giant Parallel Slalom,Silver
+2010,Vancouver,Biathlon,"NEUNER, Magdalena",GER,Women,10KM Pursuit,Gold
+2010,Vancouver,Biathlon,"HAUSWALD, Simone",GER,Women,12.5KM Mass Start,Bronze
+2010,Vancouver,Biathlon,"NEUNER, Magdalena",GER,Women,12.5KM Mass Start,Gold
+2010,Vancouver,Biathlon,"BECK, Martina",GER,Women,4X6KM Relay,Bronze
+2010,Vancouver,Biathlon,"HAUSWALD, Simone",GER,Women,4X6KM Relay,Bronze
+2010,Vancouver,Biathlon,"HENKEL, Andrea",GER,Women,4X6KM Relay,Bronze
+2010,Vancouver,Biathlon,"WILHELM, Kati",GER,Women,4X6KM Relay,Bronze
+2010,Vancouver,Biathlon,"NEUNER, Magdalena",GER,Women,7.5KM,Silver
+2010,Vancouver,Bobsleigh,"KUSKE, Kevin",GER,Men,Four-Man,Silver
+2010,Vancouver,Bobsleigh,"LANGE, Andre",GER,Men,Four-Man,Silver
+2010,Vancouver,Bobsleigh,"PUTZE, Martin",GER,Men,Four-Man,Silver
+2010,Vancouver,Bobsleigh,"ROEDIGER, Alexander",GER,Men,Four-Man,Silver
+2010,Vancouver,Bobsleigh,"KUSKE, Kevin",GER,Men,Two-Man,Gold
+2010,Vancouver,Bobsleigh,"LANGE, Andre",GER,Men,Two-Man,Gold
+2010,Vancouver,Bobsleigh,"ADJEI, Richard",GER,Men,Two-Man,Silver
+2010,Vancouver,Bobsleigh,"FLORSCHUETZ, Thomas",GER,Men,Two-Man,Silver
+2010,Vancouver,Bobsleigh,"HUBER, Anja",GER,Women,Individual,Bronze
+2010,Vancouver,Bobsleigh,"SZYMKOWIAK, Kerstin",GER,Women,Individual,Silver
+2010,Vancouver,Luge,"LEITNER, Patric",GER,Men,Doubles,Bronze
+2010,Vancouver,Luge,"RESCH, Alexander",GER,Men,Doubles,Bronze
+2010,Vancouver,Luge,"LOCH, Felix",GER,Men,Singles,Gold
+2010,Vancouver,Luge,"MOELLER, David",GER,Men,Singles,Silver
+2010,Vancouver,Luge,"GEISENBERGER, Natalie",GER,Women,Singles,Bronze
+2010,Vancouver,Luge,"HUEFNER, Tatjana",GER,Women,Singles,Gold
+2010,Vancouver,Skating,"SAVCHENKO, Aliona",GER,Women,Pairs,Bronze
+2010,Vancouver,Skating,"SZOLKOWY, Robin",GER,Men,Pairs,Bronze
+2010,Vancouver,Skating,"BECKERT, Stephanie",GER,Women,3000M,Silver
+2010,Vancouver,Skating,"BECKERT, Stephanie",GER,Women,5000M,Silver
+2010,Vancouver,Skating,"WOLF, Jenny",GER,Women,500M,Silver
+2010,Vancouver,Skating,"ANSCHUTZ THOMS, Daniela",GER,Women,Team Pursuit,Gold
+2010,Vancouver,Skating,"BECKERT, Stephanie",GER,Women,Team Pursuit,Gold
+2010,Vancouver,Skating,"FRIESINGER-POSTMA, Anna",GER,Women,Team Pursuit,Gold
+2010,Vancouver,Skating,"MATTSCHERODT, Katrin",GER,Women,Team Pursuit,Gold
+2010,Vancouver,Skiing,"REBENSBURG, Viktoria",GER,Women,Giant Slalom,Gold
+2010,Vancouver,Skiing,"RIESCH, Maria",GER,Women,Slalom,Gold
+2010,Vancouver,Skiing,"RIESCH, Maria",GER,Women,Super Combined,Gold
+2010,Vancouver,Skiing,"GOSSNER, Miriam",GER,Women,4X5KM Relay,Silver
+2010,Vancouver,Skiing,"NYSTAD, Claudia",GER,Women,4X5KM Relay,Silver
+2010,Vancouver,Skiing,"SACHENBACHER-STEHLE, Evi",GER,Women,4X5KM Relay,Silver
+2010,Vancouver,Skiing,"ZELLER, Katrin",GER,Women,4X5KM Relay,Silver
+2010,Vancouver,Skiing,"TEICHMANN, Axel",GER,Men,50KM,Silver
+2010,Vancouver,Skiing,"ANGERER, Tobias",GER,Men,Combined 15 + 15KM Mass Start,Silver
+2010,Vancouver,Skiing,"TEICHMANN, Axel",GER,Men,Team Sprint,Silver
+2010,Vancouver,Skiing,"TSCHARNKE, Tim",GER,Men,Team Sprint,Silver
+2010,Vancouver,Skiing,"NYSTAD, Claudia",GER,Women,Team Sprint,Gold
+2010,Vancouver,Skiing,"SACHENBACHER-STEHLE, Evi",GER,Women,Team Sprint,Gold
+2010,Vancouver,Skiing,"EDELMANN, Tino",GER,Men,"Team, 4X5 KM",Bronze
+2010,Vancouver,Skiing,"FRENZEL, Eric",GER,Men,"Team, 4X5 KM",Bronze
+2010,Vancouver,Skiing,"KIRCHEISEN, Bjoern",GER,Men,"Team, 4X5 KM",Bronze
+2010,Vancouver,Skiing,"RYDZEK, Johannes",GER,Men,"Team, 4X5 KM",Bronze
+2010,Vancouver,Skiing,"NEUMAYER, Michael",GER,Men,K120 Team (90M),Silver
+2010,Vancouver,Skiing,"SCHMITT, Martin",GER,Men,K120 Team (90M),Silver
+2010,Vancouver,Skiing,"UHRMANN, Michael",GER,Men,K120 Team (90M),Silver
+2010,Vancouver,Skiing,"WANK, Andreas",GER,Men,K120 Team (90M),Silver
+2014,Sochi,Biathlon,"LESSER, Erik",GER,Men,20KM,Silver
+2014,Sochi,Biathlon,"BOEHM, Daniel",GER,Men,4X7.5KM Relay,Silver
+2014,Sochi,Biathlon,"LESSER, Erik",GER,Men,4X7.5KM Relay,Silver
+2014,Sochi,Biathlon,"PEIFFER, Arnd",GER,Men,4X7.5KM Relay,Silver
+2014,Sochi,Biathlon,"SCHEMPP, Simon",GER,Men,4X7.5KM Relay,Silver
+2014,Sochi,Luge,"ARLT, Tobias",GER,Men,Doubles,Gold
+2014,Sochi,Luge,"WENDL, Tobias",GER,Men,Doubles,Gold
+2014,Sochi,Luge,"ARLT, Tobias",GER,Men,Mixed Relay,Gold
+2014,Sochi,Luge,"LOCH, Felix",GER,Men,Mixed Relay,Gold
+2014,Sochi,Luge,"WENDL, Tobias",GER,Men,Mixed Relay,Gold
+2014,Sochi,Luge,"LOCH, Felix",GER,Men,Singles,Gold
+2014,Sochi,Luge,"GEISENBERGER, Natalie",GER,Women,Mixed Relay,Gold
+2014,Sochi,Luge,"GEISENBERGER, Natalie",GER,Women,Singles,Gold
+2014,Sochi,Luge,"HUEFNER, Tatjana",GER,Women,Singles,Silver
+2014,Sochi,Skating,"SZOLKOWY, Robin",GER,Men,Pairs,Bronze
+2014,Sochi,Skating,"SAVCHENKO, Aliona",GER,Women,Pairs,Bronze
+2014,Sochi,Skiing,"REBENSBURG, Viktoria",GER,Women,Giant Slalom,Bronze
+2014,Sochi,Skiing,"HOEFL-RIESCH, Maria",GER,Women,Super Combined,Gold
+2014,Sochi,Skiing,"HOEFL-RIESCH, Maria",GER,Women,Super-G,Silver
+2014,Sochi,Skiing,"BOEHLER, Stefanie",GER,Women,4X5KM Relay,Bronze
+2014,Sochi,Skiing,"FESSEL, Nicole",GER,Women,4X5KM Relay,Bronze
+2014,Sochi,Skiing,"HERRMANN, Denise",GER,Women,4X5KM Relay,Bronze
+2014,Sochi,Skiing,"NYSTAD, Claudia",GER,Women,4X5KM Relay,Bronze
+2014,Sochi,Skiing,"FRENZEL, Eric",GER,Men,Ind. K90 (70M),Gold
+2014,Sochi,Skiing,"RIESSLE, Fabian",GER,Men,Sprint K120,Bronze
+2014,Sochi,Skiing,"FRENZEL, Eric",GER,Men,"Team, 4X5 KM",Silver
+2014,Sochi,Skiing,"KIRCHEISEN, Bjoern",GER,Men,"Team, 4X5 KM",Silver
+2014,Sochi,Skiing,"RIESSLE, Fabian",GER,Men,"Team, 4X5 KM",Silver
+2014,Sochi,Skiing,"RYDZEK, Johannes",GER,Men,"Team, 4X5 KM",Silver
+2014,Sochi,Skiing,"FREUND, Severin",GER,Men,Teams,Gold
+2014,Sochi,Skiing,"KRAUS, Marinus",GER,Men,Teams,Gold
+2014,Sochi,Skiing,"WANK, Andreas",GER,Men,Teams,Gold
+2014,Sochi,Skiing,"WELLINGER, Andreas",GER,Men,Teams,Gold
+2014,Sochi,Skiing,"VOGT, Carina",GER,Women,K90 Individual,Gold
+2014,Sochi,Skiing,"KARSTENS, Anke",GER,Women,Parallel Slalom,Silver
+2014,Sochi,Skiing,"KOBER, Amelie",GER,Women,Parallel Slalom,Bronze
